@@ -1,5 +1,6 @@
 MySQL COMANDO:
 MySQL 5.6 Command Line Client
+adcbisdugvsuidgcvhoolaaaaaaaaaaaaaaaaa
 
 show databases; //...Mostar todas las bases de datos
 use mysql; //...Usar la base de datos MySQL
